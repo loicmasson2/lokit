@@ -1,16 +1,19 @@
 {
   "name": "@lokit/black-sheep-button",
   "version": "0.0.0",
-  "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
+  "description": "Buttons",
   "keywords": [],
   "author": "Loïc Masson <masson.loic.023@gmail.com>",
-  "license": "ISC",
-  "main": "lib/black-sheep-button.js",
+  "license": "MIT",
+  "main": "dist/black-sheep-button.cjs.js",
+  "module": "dist/black-sheep-button.esm.js",
+  "src": "lib/black-sheep-button.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
   },
   "files": [
+    "dist",
     "lib"
   ],
   "publishConfig": {
