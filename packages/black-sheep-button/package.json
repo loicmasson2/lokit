@@ -1,6 +1,6 @@
 {
   "name": "@lokit/black-sheep-button",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Buttons",
   "keywords": [],
   "author": "Loïc Masson <masson.loic.023@gmail.com>",
@@ -24,7 +24,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "devDependencies": {
-    "@lokit/black-sheep-builder": "^0.0.0",
+    "@lokit/black-sheep-builder": "^1.0.0",
     "react": "^17.0.2"
   },
   "peerDependencies": {
