@@ -24,6 +24,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
+    "@lokit/black-sheep-background": "^1.0.0",
     "@lokit/black-sheep-button": "^1.0.0",
     "@lokit/black-sheep-text": "^1.0.0"
   },
