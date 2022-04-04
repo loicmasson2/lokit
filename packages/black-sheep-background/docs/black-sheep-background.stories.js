@@ -7,6 +7,7 @@ export default { title: "Background" };
 
 export const BackgroundExample = () => (
   <>
-    <Background id={1} >HELLO STYLED</Background>
+    <Background id={"1"} variant={"primary"}/>
+    <Background id={"2"} variant={"secondary"} />
   </>
 );
